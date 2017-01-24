@@ -11,6 +11,15 @@
     color: #fff !important;
     padding: 14px !important;
 }
+#footer-widgets a:link, a:visited {
+    color: #fff !important;
+}
+
+footer.site-footer {
+    background-color: #00a0ca;
+    color: #fff;
+    margin-top: 17px;
+}
 
 @media screen (max-width: 700px) {
     #primary {
