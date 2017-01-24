@@ -1,3 +1,7 @@
+.main-navigation li a:link, .main-navigation li a:visited, .textwidget {
+    font-weight: 100;
+}
+
 @media screen (max-width: 700px) {
     #primary {
         width: 100%;
