@@ -12,3 +12,12 @@
     }
 
 }
+
+@media screen (max-width: 700px) {
+	#primary {
+        width: 100% !important;
+    }
+    #text-3 {
+	    width: 100% !important;
+	}
+}
