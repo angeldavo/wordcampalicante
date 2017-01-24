@@ -9,7 +9,11 @@
 	#primary {
         width: 100% !important;
     }
-    #text-3 {
+    #text-3, #text-4 {
 	    width: 100% !important;
 	}
+    #secondary {
+        width: 100% !important;
+        padding-top: 31px !important;
+    }
 }
