@@ -2,6 +2,10 @@
     text-decoration: none;
     color: #069BD9 !important;
 }
+.entry-meta a:link, .entry-meta a:visited {
+    text-decoration: none;
+    color: #069BD9 !important;
+}
 
 .main-navigation li a:link, .main-navigation li a:visited, .textwidget, .textwidget p {
     font-weight: 100;
