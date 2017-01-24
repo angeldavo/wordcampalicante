@@ -1,4 +1,4 @@
-.main-navigation li a:link, .main-navigation li a:visited, .textwidget {
+.main-navigation li a:link, .main-navigation li a:visited, .textwidget, .textwidget p {
     font-weight: 100;
 }
 
