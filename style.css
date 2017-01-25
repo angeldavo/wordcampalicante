@@ -77,3 +77,9 @@ footer.site-footer {
         padding-top: 31px !important;
     }
 }
+
+@media screen and (max-width: 550px) {
+    .site-content {
+        padding: 0px !important;
+    }
+}
