@@ -83,3 +83,23 @@ footer.site-footer {
         padding: 0px !important;
     }
 }
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    .main-small-navigation {
+        clear: both;
+        display: block;
+        float: left;
+        width: 100%;
+    }
+}
+
+
+
+
+
+
