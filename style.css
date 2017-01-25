@@ -1,3 +1,6 @@
+#main {
+    max-width: 1080px !important;
+}
 .entry-title a:link, .entry-title a:visited {
     text-decoration: none;
     color: #069BD9 !important;
