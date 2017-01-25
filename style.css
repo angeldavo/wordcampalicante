@@ -104,6 +104,12 @@ footer.site-footer {
     .main-small-navigation li {
         display: grid !important;
     }
+    .main-small-navigation li {
+        padding: 10px !important;
+    }
+    .main-small-navigation ul, ol {
+        margin: 0 0 1.5em 0em !important;
+    }
 }
 
 
