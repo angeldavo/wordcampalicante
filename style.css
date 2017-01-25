@@ -96,6 +96,23 @@ footer.site-footer {
         float: left;
         width: 100%;
     }
+    .menu-toggle {
+        text-indent: 0;
+        width: 27px;
+        float: right;
+        position: relative;
+        margin: 13px 20px 0 0;
+        border-top: 2px solid $blue;
+        border-bottom: 2px solid $blue;
+        position: absolute;
+        bottom: 0;
+        left: 13px;
+        right: 0px;
+        height: 24px;
+        content: '';
+        border-top: 2px solid $blue;
+        display: block;
+    }
 }
 
 
