@@ -80,6 +80,6 @@ footer.site-footer {
 
 @media screen and (max-width: 550px) {
     .site-content {
-        padding: 0px !important;
+        padding: 1px !important;
     }
 }
